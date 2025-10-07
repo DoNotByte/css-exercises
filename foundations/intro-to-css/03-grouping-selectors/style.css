@@ -1,1 +1,34 @@
 /* Add CSS Styling */
+
+.Click_Me,.No_Click_Me{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+
+}
+
+
+
+.Click_Me{
+
+    background-color: black;
+    color: white;
+}
+
+.No_Click_Me{
+
+background-color: yellow;
+
+}
+
+
+
+/*
+
+My solution
+
+body button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+*\
